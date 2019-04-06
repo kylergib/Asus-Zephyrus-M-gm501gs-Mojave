@@ -29,7 +29,7 @@ Keyboard.
 
 ### What doesn't work?
 
-Bluetooth.
+Bluetooth.\n
 Trackpad.
 FNKeys
 Audio.
