@@ -1,6 +1,6 @@
-# Asus Zephyrus M (GM501GS) macOS Mojave 10.4.4\
+# Asus Zephyrus M (GM501GS) macOS Mojave 10.4.4
 
-One Paragraph of project description goes here\
+One Paragraph of project description goes here
 
 Specs:\
 OS: Mac OS High Sierra 10.14.4\
@@ -11,40 +11,40 @@ Wi-Fi: Dell DW1830\
 Bluetooth:\
 Camera: USB2.0 HD UVC WebCam\
 Audio/Mic: Realtek HD Audio ALC3328 (ALC294 codec)\
-Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)\
+Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)
 
 ### Installing\
 
 Use olaria bootup https://www.olarila.com/forum/viewtopic.php?f=51&t=6743\
 Use clover with default settings and install to Macintosh HD https://sourceforge.net/projects/cloverefiboot/\
 restart and unplug usb and boot from new uefi clover and sewlect macintosh hd\
-add lilu and whatever green kexts.\
+add lilu and whatever green kexts.
 
 
-## What works?\
+## What works?
 
 Wi-Fi works.\
 Intel Graphics i believe, may need to do some frame buffering, but will test.\
-Keyboard.\
+Keyboard.
 
-### What doesn't work?\
+### What doesn't work?
 
 Bluetooth.\
 Trackpad.\
 FNKeys\
 Audio\
 Battery manager\
-Issues with lag when asking for admin password\
+Issues with lag when asking for admin password
 
-## Helpful links.\
+## Helpful links.
 
-https://www.insanelymac.com/\
-https://www.reddit.com/r/hackintosh/\
-https://www.olarila.com/\
-https://www.tonymacx86.com/\
+https://www.insanelymac.com/  
+https://www.reddit.com/r/hackintosh/  
+https://www.olarila.com/  
+https://www.tonymacx86.com/  
 
 
-## Acknowledgments\
+## Acknowledgments  
 
-*Special thanks to dggomes. I used his High Sierra build to first install and then wanted to install Mojave.\
-*You can find his build for High Sierra here: https://github.com/dggomes/asuszephyrus-m\
+*Special thanks to dggomes. I used his High Sierra build to first install and then wanted to install Mojave.  
+*You can find his build for High Sierra here: https://github.com/dggomes/asuszephyrus-m  
