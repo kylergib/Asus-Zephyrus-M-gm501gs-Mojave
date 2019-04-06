@@ -13,11 +13,11 @@ Camera: USB2.0 HD UVC WebCam\
 Audio/Mic: Realtek HD Audio ALC3328 (ALC294 codec)\
 Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)
 
-### Installing\
+### Installing  
 
-Use olaria bootup https://www.olarila.com/forum/viewtopic.php?f=51&t=6743\
-Use clover with default settings and install to Macintosh HD https://sourceforge.net/projects/cloverefiboot/\
-restart and unplug usb and boot from new uefi clover and sewlect macintosh hd\
+Use olaria bootup https://www.olarila.com/forum/viewtopic.php?f=51&t=6743  
+Use clover with default settings and install to Macintosh HD https://sourceforge.net/projects/cloverefiboot/  
+restart and unplug usb and boot from new uefi clover and sewlect macintosh hd  
 add lilu and whatever green kexts.
 
 
