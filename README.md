@@ -23,7 +23,8 @@ add lilu and whatever green kexts.
 
 Wi-Fi\
 Intel Graphics I believe, may need to do some frame buffering, but will test.\
-Keyboard
+Keyboard  
+Sleep/Wake
 
 ## What I had to fix
 Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works \
