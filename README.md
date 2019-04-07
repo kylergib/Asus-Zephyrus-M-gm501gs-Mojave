@@ -21,20 +21,26 @@ restart and unplug usb and boot from new uefi clover and sewlect macintosh hd
 add lilu and whatever green kexts.
 
 
-## What works?
+## What worked OTB
 
-Wi-Fi works.\
-Intel Graphics i believe, may need to do some frame buffering, but will test.\
-Keyboard.
+Wi-Fi\
+Intel Graphics I believe, may need to do some frame buffering, but will test.\
+Keyboard
 
-### What doesn't work?
+##What I had to fix
+Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works  
+Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder
+Issues with lag when asking for admin password, used NoTouchID.kext 
+FNKeys, used Karabiner to alter  
 
-Bluetooth.\
-Trackpad.\
-FNKeys\
+### What doesn't work
+
+Trackpad\
 Audio\
 Battery manager\
-Issues with lag when asking for admin password
+Keyboard backlight control  
+
+
 
 ## Helpful links.
 
