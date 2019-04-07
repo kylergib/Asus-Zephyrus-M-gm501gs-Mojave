@@ -1,7 +1,5 @@
 # Asus Zephyrus M (GM501GS) macOS Mojave 10.4.4
 
-One Paragraph of project description goes here
-
 Specs:\
 OS: Mac OS High Sierra 10.14.4\
 CPU i7 8750H Code Lake\
