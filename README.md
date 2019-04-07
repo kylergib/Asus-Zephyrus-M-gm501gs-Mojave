@@ -30,14 +30,14 @@ Keyboard
 ## What I had to fix
 Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works  
 Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder
-Issues with lag when asking for admin password, used NoTouchID.kext
+Issues with lag when asking for admin password, used NoTouchID.kext\
+Battery manager, fixed with ACPIBatteryManager.kext\
 FNKeys, used Karabiner to alter  
 
 ### What doesn't work
 
 Trackpad\
 Audio\
-Battery manager\
 Keyboard backlight control  
 
 
