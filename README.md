@@ -26,8 +26,8 @@ Intel Graphics I believe, may need to do some frame buffering, but will test.\
 Keyboard
 
 ## What I had to fix
-Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works  
-Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder
+Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works \
+Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder\
 Issues with lag when asking for admin password, used NoTouchID.kext\
 Battery manager, fixed with ACPIBatteryManager.kext\
 Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist\
