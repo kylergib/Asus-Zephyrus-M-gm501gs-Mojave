@@ -32,15 +32,13 @@ Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if 
 Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder
 Issues with lag when asking for admin password, used NoTouchID.kext\
 Battery manager, fixed with ACPIBatteryManager.kext\
+Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist\
 FNKeys, used Karabiner to alter  
 
 ### What doesn't work
 
 Trackpad\
-Audio\
 Keyboard backlight control  
-
-
 
 ## Helpful links.
 
