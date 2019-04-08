@@ -13,10 +13,7 @@ Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)
 
 ### Installing  
 
-Use olaria bootup https://www.olarila.com/forum/viewtopic.php?f=51&t=6743  
-Use clover with default settings and install to Macintosh HD https://sourceforge.net/projects/cloverefiboot/  
-restart and unplug usb and boot from new uefi clover and sewlect macintosh hd  
-add lilu and whatever green kexts.
+
 
 
 ## What worked OTB
@@ -51,3 +48,4 @@ https://www.tonymacx86.com/
 
 *Special thanks to dggomes. I used his High Sierra build to first install and then wanted to install Mojave.  
 *You can find his build for High Sierra here: https://github.com/dggomes/asuszephyrus-m  
+*Special thanks to Mald0n as well for helping with creating the DSDT.
