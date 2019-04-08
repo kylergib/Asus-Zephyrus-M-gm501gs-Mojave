@@ -11,19 +11,19 @@ Camera: USB2.0 HD UVC WebCam\
 Audio/Mic: Realtek HD Audio ALC3328 (ALC294 codec)\
 Keyboard & Trackpad - ELAN/SA473I-12A4 (ELAN1201)
 
-### Installing  
+## Installing  
+
+Have not added installation walkthrough yet, may add later, but there are a bunch of guides out there, also can use dggomes walkthrough for high sierra, as it was a very similar processs. Link at the bottom.
 
 
-
-
-## What worked OTB
+### What worked OTB
 
 Wi-Fi\
 Intel Graphics I believe, may need to do some frame buffering, but will test.\
 Keyboard  
 Sleep/Wake
 
-## What I had to fix
+### What I had to fix
 Bluetooth, fixed with BrcmFirmwareRepo.kext and BcrmPatchRam2.kext, not sure if original bluetooth works \
 Native Brightness Controler, used AppleBacklightFixup.kext with SSDT-PNLF.aml in patched folder\
 Issues with lag when asking for admin password, used NoTouchID.kext\
