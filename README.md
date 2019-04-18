@@ -35,7 +35,8 @@ FNKeys, used Karabiner to alter
 ### What doesn't work
 
 Trackpad\
-Keyboard backlight control  
+Keyboard backlight control 
+Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist* not working, unsure if it was possibly after an update. 
 
 ## Helpful links.
 
