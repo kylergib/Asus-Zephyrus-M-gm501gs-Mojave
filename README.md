@@ -30,12 +30,12 @@ Issues with lag when asking for admin password, used NoTouchID.kext\
 Battery manager, fixed with ACPIBatteryManager.kext\
 Disable Nvidia GPU with DSDT patch, thanks to Mald0n.
 FNKeys, used Karabiner to alter  
+Trackpad, working in polling mode. Uploaded new clover folder.  
 
 ### What doesn't work
 
-Trackpad\
-Keyboard backlight control 
-Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist* not working, unsure if it was possibly after an update. 
+Keyboard backlight control
+Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist* not working, unsure if it was possibly after an update.
 
 ## Helpful links.
 
