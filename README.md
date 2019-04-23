@@ -34,7 +34,7 @@ Trackpad, working in polling mode. Uploaded new clover folder.
 
 ### What doesn't work
 
-Keyboard backlight control
+Keyboard backlight control.  
 Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist* not working, unsure if it was possibly after an update.
 
 ## Helpful links.
