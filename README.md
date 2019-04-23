@@ -31,11 +31,13 @@ Battery manager, fixed with ACPIBatteryManager.kext\
 Disable Nvidia GPU with DSDT patch, thanks to Mald0n.
 FNKeys, used Karabiner to alter  
 Trackpad, working in polling mode. Uploaded new clover folder.  
+Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist, needed codeccommander.kext to get it fully functioning.
 
 ### What doesn't work
 
 Keyboard backlight control.  
-Audio, fixed with AppleALC.kext and changing Audio Inject to 13 in clover config.plist* not working, unsure if it was possibly after an update.
+Not sure if headphone jack is working or not, as i do not use headphones, only use airpods.  
+
 
 ## Helpful links.
 
