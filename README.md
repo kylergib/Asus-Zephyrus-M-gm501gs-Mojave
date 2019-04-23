@@ -2,7 +2,7 @@
 
 Specs:\
 OS: Mac OS High Sierra 10.14.4\
-CPU i7 8750H Code Lake\
+CPU i7 8750H Coffee Lake\
 Chipset: HM370\
 Graphics: Intel UHD 630 (has NVIDIA 1070 TI, but not supported by 10.14, so have DSDT to disable it.)\
 Wi-Fi: Dell DW1830\
